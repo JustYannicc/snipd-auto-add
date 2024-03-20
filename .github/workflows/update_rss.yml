@@ -1,7 +1,8 @@
 name: Update Podcast RSS Feed
 on:
   schedule:
-    - cron: '0 */6 * * *'  # This runs the action every 6 hours, adjust as necessary
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   generate_and_upload_rss:
