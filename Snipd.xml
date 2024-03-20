@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Snipd</title>
+    <link>https://drive.google.com/drive/folders/11B2VC0I-8vlOn-ZuBEq1HTeBq9YTGfFS</link>
+    <description>Auto-generated feed from a Drive folder</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Wed, 20 Mar 2024 10:38:53 +0000</lastBuildDate>
+    <item>
+      <title>Die Irrwege der Überwacher.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1366dDRQTeTextQQmcddei7juoPaxaGwD</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1366dDRQTeTextQQmcddei7juoPaxaGwD" length="28985441" type="audio/mpeg"/>
+      <pubDate>Wed, 20 Mar 2024 10:12:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Der Staat als Hacker.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1c4mwi9BqXE53yXqUEOvCrWzWxcQlYcBe</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1c4mwi9BqXE53yXqUEOvCrWzWxcQlYcBe" length="25521269" type="audio/mpeg"/>
+      <pubDate>Wed, 20 Mar 2024 10:12:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wie schütze ich mich vor Über­wachung?.mp3</title>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1lC-bYriLEq6-sb4nPHkyrvKiOKCRkezD</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1lC-bYriLEq6-sb4nPHkyrvKiOKCRkezD" length="28868000" type="audio/mpeg"/>
+      <pubDate>Wed, 20 Mar 2024 10:12:35 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
